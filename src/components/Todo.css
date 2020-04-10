@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+li{
+    /* border:2px solid red; */
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.Listing{
+    /* background-color: rgb(247, 217, 178); */
+    background-color: rgb(160, 195, 235);
+    margin-right: 20px;
+    font-size: larger;
+}
+.edit{
+    border: 2px solid black;
+    background-color: rgb(153, 171, 253);
+    padding: 5px 20px 5px 20px;
+    margin-right: 10px;
+    font-weight: 400;
+}
+.delete{
+    border: 2px solid black;
+    background-color:  rgb(153, 171, 253);
+    padding: 5px 20px 5px 20px;
+    font-weight: 400;
+}
+/* form input{
+    margin-top: 10px;
+    margin-left: -400px; 
+} */
